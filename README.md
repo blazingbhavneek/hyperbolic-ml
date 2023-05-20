@@ -1,4 +1,5 @@
-# Hyperbolic Machine Learning with Graphs for Data Privacy: A project under Nikita Mam and Prof. Sandeep Kumar (PI)
+# Hyperbolic Machine Learning with Graphs for Data Privacy 
+## A project under Nikita Mam and Prof. Sandeep Kumar (PI)
 
 ## Logs
 ### 20-05-2023
